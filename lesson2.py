@@ -19,12 +19,14 @@
 # else:
 #     print("Wrong")
 
-num1=int(input("Choose rock, paper, scissors:"))
-num2=int(input("Choose rock, paper, scissors:"))
-rock=0
-paper=1
-scissors=2
-if num1==0 and num2==2 or num1==2 and num2==1 or num1==1 and num2==0:
-    print("You win")
-else:
-    print("lose")
+# num1=int(input("Choose rock, paper, scissors:"))
+# num2=int(input("Choose rock, paper, scissors:"))
+# rock=0
+# paper=1
+# scissors=2
+# if num1==0 and num2==2 or num1==2 and num2==1 or num1==1 and num2==0:
+#     print("You win")
+# else:
+#     print("lose")
+
+# print("Hello", "world","!",sep="...")

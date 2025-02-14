@@ -102,14 +102,14 @@
 #     print("error:no text")
 
 
-try:
-    a = input("Enter number: ")  
-    if len(a) == 8: 
-        print(a)
-    else:
-        print("Short or Long") 
-except ValueError:
-    print("Invalid input")
+# try:
+#     a = input("Enter number: ")  
+#     if len(a) == 8: 
+#         print(a)
+#     else:
+#         print("Short or Long") 
+# except ValueError:
+#     print("Invalid input")
 
     
     

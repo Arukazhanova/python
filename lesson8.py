@@ -121,7 +121,15 @@
 # print(total)
 
 
+# def discount(percent):
+#     def apply_discount(price):
+#         return price*(1-percent/100)
+#     return apply_discount
+# holiday_discount=discount(25)
+# print(holiday_discount(1000))
 
+# student_discount=discount(15)
+# print(student_discount(500))
 
 
 
